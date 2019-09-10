@@ -6,7 +6,7 @@ input {
     box-shadow: none;
 }
 .lockscreen-bg {
-    background-image: url('../../assets/hd.jpg');
+    background-image: url('../../assets/min.jpg');
     filter: blur(10px);
     -webkit-filter: blur(10px);
     min-height: 100vh;
